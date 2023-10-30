@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "nombre": "OFF-WHITE",
+      "precio": 200000,
+      "img": "./img/zapatillas.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "DREW-SHIRT",
+      "precio": 60000,
+      "img": "./img/remeras.jpg"
+    },
+    {
+       "id": 3, 
+      "nombre": "PANTS LAKERS",
+      "precio": 70000,
+      "img": "./img/pantalones.jpg" 
+    },
+    {
+        "id": 4,
+      "nombre": "SUPREME CUP",
+      "precio": 40000,
+      "img": "./img/accesorios.jpg" 
+    },
+    {
+        "id": 5,
+        "nombre": "NEW DROP",
+        "precio": 300000,
+        "img": "./img/newdrop.jpg" 
+      }
+  ]
+
+
+  
